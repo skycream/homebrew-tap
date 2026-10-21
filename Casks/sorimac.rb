@@ -14,7 +14,7 @@ cask "sorimac" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Sorimac.app"
 
