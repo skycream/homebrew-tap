@@ -1,6 +1,6 @@
 cask "sorimac" do
-  version "2.0.59"
-  sha256 "f1fd8a789e01feb5587d5a2277fbc50f4f2b452084742ed2487c31aabdb77892"
+  version "2.1.0"
+  sha256 "44460fa32a0b62c752f6bdd0c0a23a301157fb86e5dabf014801e5156c032e26"
 
   url "https://sorimac.com/dl/Sorimac-#{version}.zip"
   name "Sorimac"
